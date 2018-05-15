@@ -1,0 +1,9 @@
+name: ts3
+version: 0.1.0
+
+authors:
+  -  <>
+
+crystal: 0.24.1
+
+license: MIT
